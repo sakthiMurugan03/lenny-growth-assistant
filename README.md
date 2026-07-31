@@ -154,7 +154,7 @@ python ingest.py
 uvicorn main:app --reload --port 8000
 ```
 
-The API is now live at **http://localhost:8000**.
+The FastAPI is now live at **http://localhost:8000/docs#/**.
 
 ### 2 · Frontend (Next.js)
 
