@@ -181,6 +181,10 @@ The FastAPI is now live at **http://localhost:8000/docs#/**.
 
 ---
 
+<img width="2526" height="1190" alt="image" src="https://github.com/user-attachments/assets/8986123e-2324-4b33-8c5b-23df6bcd5037" />
+
+---
+
 ```bash
 # from the repo root
 cd frontend
