@@ -1,12 +1,3 @@
----
-title: Lenny Growth Backend
-emoji: 🚀
-colorFrom: blue
-colorTo: indigo
-sdk: docker
-app_port: 7860
----
-
 # Lenny Growth Assistant
 
 > An agentic, dual-engine **RAG copilot** for product managers and growth engineers — grounded in Lenny's Podcast transcripts.
@@ -64,7 +55,7 @@ Beyond Q&A, it ships an agentic **skill system** — including a *Ship30for30* a
                          │                  BACKEND                     │
                          │                  FastAPI                     │
                          │  ┌───────────────── router.py ─────────────┐ │
-                         │  │        Dual-Engine LLM Router            │ │
+                         │  │        Dual-Engine LLM Router           │ │
                          │  └───────┬─────────────────────────┬───────┘ │
                          │          │                         │         │
                          │   ┌──────▼──────┐          ┌───────▼───────┐ │
