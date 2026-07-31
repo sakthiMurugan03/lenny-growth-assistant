@@ -1,3 +1,12 @@
+---
+title: Lenny Growth Backend
+emoji: 🚀
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 7860
+---
+
 # Lenny Growth Assistant
 
 > An agentic, dual-engine **RAG copilot** for product managers and growth engineers — grounded in Lenny's Podcast transcripts.
