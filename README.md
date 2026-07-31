@@ -233,12 +233,6 @@ NEXT_PUBLIC_API_BASE=http://localhost:8000
 
 ---
 
-## 🎥 Video Demonstration
-
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
-
----
-
 ## License
 
 Released under the **MIT License**. See [`LICENSE`](LICENSE) for details.
