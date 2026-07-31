@@ -4,3 +4,5 @@ chromadb
 anthropic
 python-dotenv
 pydantic
+sentence-transformers
+torch
