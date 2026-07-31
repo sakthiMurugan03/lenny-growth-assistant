@@ -154,7 +154,7 @@ python ingest.py
 uvicorn main:app --reload --port 8000
 ```
 
-The FastAPI is now live at **http://localhost:8000/docs#/**.
+The FastAPI Swagger UI is now live at **http://localhost:8000/docs#/**.
 
 <img width="2522" height="1064" alt="image" src="https://github.com/user-attachments/assets/1aea7c8d-7a3f-4330-a25d-b9e369d9534e" />
 
