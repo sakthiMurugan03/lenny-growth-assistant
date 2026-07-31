@@ -161,15 +161,21 @@ The FastAPI is now live at **http://localhost:8000/docs#/**.
 ### 2 · Frontend (Next.js)
 <img width="2538" height="1194" alt="image" src="https://github.com/user-attachments/assets/3e6d6ed2-f2c5-446f-a846-12f8446856d6" />
 
+---
+
 <img width="2538" height="1194" alt="image" src="https://github.com/user-attachments/assets/b376f29c-c3df-4196-b5ac-ab15f270b951" />
+
+---
 
 <img width="2538" height="1194" alt="image" src="https://github.com/user-attachments/assets/2cbb9226-5964-43d7-9faf-727ef5346f42" />
 
+---
+
 <img width="2538" height="1194" alt="image" src="https://github.com/user-attachments/assets/f1a72268-71a5-4f1c-9786-df297ebb3b6f" />
 
+---
+
 <img width="1908" height="474" alt="image" src="https://github.com/user-attachments/assets/430c8ba8-ba42-4c09-974c-fa427912a17f" />
-
-
 
 
 
